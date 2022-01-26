@@ -30,7 +30,7 @@ Original Screenshots:
 <img src="arts/scr02.png" alt="screenshot" width="320"/>
 <img src="arts/scr03.png" alt="screenshot" width="320"/>
 
-## ![build](https://github.com/Templarian/MaterialDesign/blob/master/icons/svg/camera-front-variant.svg)Build
+## ![build](https://github.com/Templarian/MaterialDesign/blob/master/svg/hammer-wrench.svg) Build
 
 Clone project in Android Studio: `File -> New -> Project from Version Control -> Git`  
 Install missing SDK components. Android Studio would give you the auto-fix options.  
