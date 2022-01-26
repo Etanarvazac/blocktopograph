@@ -5,13 +5,14 @@
 - Etanarvazac (Lead)
 **Past Versions:**
 - Proto Lambda (User requested to not be linked.): Original
-- [@MithrilMania](https://github.com/MithrilMania),
+- [@MithrilMania](https://github.com/MithrilMania)
 - [@flagmaggot](https://github.com/flagmaggot)
-- [@oO0oO0oO0o0o00](https://github.com/oO0oO0oO0o0o00)
+- [@oO0oO0oO0o0o00](https://github.com/oO0oO0oO0o0o00): Up to version 1.9.5
+
 This fork may be the only one to soon support MC 1.18 and Android 12.
 
-## Updates coming (hopefully)
-As title, with luck I would be able to grt this working with Android 12+ and MCPE 1.18+.
+## Updates
+This project is quite old and hopefully can be updated to the current versions of Android and MCPE.
 **To Do:**
 1. Gain access to the new world save location. (/Android/Data/com.mojang.minecraftpe/files/games/com.mojang)
 2. Update Map to read 1.18+ worlds.
@@ -20,8 +21,7 @@ As title, with luck I would be able to grt this working with Android 12+ and MCP
 ## Translations/Pull Requests
 Until 1.18 is supported and on Android 12+, translations are put on hold. Pull requests are accepted if it is deemed to help accomplish the goals outlined above.
 
-## Download
-**Old 1.9.4 version:** ![download](https://github.com/Templarian/MaterialDesign/blob/master/svg/download.svg)Download
+## ![download](https://github.com/Templarian/MaterialDesign/blob/master/svg/download.svg) Downloads
 **Google Play:** [Unavailable: This might stay this way due to Google's new policies.]
 **Aptoide:** [Unavailable: This will be the new download location upon release of a stable build.]
 
