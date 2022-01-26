@@ -9,15 +9,20 @@ This fork is the only one supporting MCPE 1.13+ for now.
 ## ![translate](https://github.com/Templarian/MaterialDesign/blob/master/svg/web.svg) Help improve translation
 [Click here](https://github.com/oO0oO0oO0o0o00/blocktopograph/blob/master/translation.md).
 
-## Update paused
-As title.
+## Updates coming (hopefully)
+As title, with luck I would be able to grt this working with Android 12+ and MCPE 1.18+.
+**To Do:**
+1. Gain access to the new world save location. (/Android/Data/com.mojang.minecraftpe/files/games/com.mojang)
+2. Update Map to read 1.18+ worlds.
+3. Update NBT editor to account for 1.18 values.
 
-Translations and pull requests **will still be processed**, but we encourage you to
-take over this project and develope on your own.
+## Translations/Pull Requests
+Until 1.18 is supported and on Android 12+, translations are put on hold. Pull requests are accepted if it is deemed to help accomplish the goals outlined above.
 
-## ![download](https://github.com/Templarian/MaterialDesign/blob/master/svg/download.svg)Download
-[>>> Download on Google Play <<<](https://play.google.com/store/apps/details?id=rbq2012.blocktopograph)  
-[![Google Play](https://lh3.googleusercontent.com/qF9r3ZjtgG-qyHdmjecArtKiulz1gmwL_xl9R3_fzk6igSeoN0wYbJSKEX5d_fxJRwYZJpHbqcLB3i9atl-9dOfUl9an7U43TfZ9PtQ=s0)](https://play.google.com/store/apps/details?id=rbq2012.blocktopograph)
+## Download
+**Old 1.9.4 version:** ![download](https://github.com/Templarian/MaterialDesign/blob/master/svg/download.svg)Download
+**Google Play:** [Unavailable: This might stay this way due to Google's new policies.]
+**Aptoide:** [Unavailable: This will be the new download location upon release of a stable build.]
 
 And release page of the repository provides debug version of the app.  
 <img src="arts/scr02.png" alt="screenshot" width="320"/>
