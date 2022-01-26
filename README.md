@@ -11,7 +11,7 @@
 
 This fork may be the only one to soon support MC 1.18 and Android 12.
 
-## Updates
+## ![update](https://github.com/Templarian/MaterialDesign/blob/master/svg/update.svg) Updates
 This project is quite old and hopefully can be updated to the current versions of Android and MCPE.
 **To Do:**
 1. Gain access to the new world save location. (/Android/Data/com.mojang.minecraftpe/files/games/com.mojang)
@@ -23,9 +23,10 @@ Until 1.18 is supported and on Android 12+, translations are put on hold. Pull r
 
 ## ![download](https://github.com/Templarian/MaterialDesign/blob/master/svg/download.svg) Downloads
 **Google Play:** [Unavailable: This might stay this way due to Google's new policies.]
+
 **Aptoide:** [Unavailable: This will be the new download location upon release of a stable build.]
 
-And release page of the repository provides debug version of the app.  
+Original Screenshots:
 <img src="arts/scr02.png" alt="screenshot" width="320"/>
 <img src="arts/scr03.png" alt="screenshot" width="320"/>
 
