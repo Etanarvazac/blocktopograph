@@ -3,6 +3,7 @@
 ## ![author](https://github.com/Templarian/MaterialDesign/blob/master/svg/account.svg) Authors & Contributors
 **Latest Releases:**
 - Etanarvazac (Lead)
+
 **Past Versions:**
 - Proto Lambda (User requested to not be linked.): Original
 - [@MithrilMania](https://github.com/MithrilMania)
