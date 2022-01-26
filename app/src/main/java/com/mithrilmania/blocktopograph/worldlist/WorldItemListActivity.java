@@ -556,6 +556,7 @@ public class WorldItemListActivity extends AppCompatActivity {
                 mWorldGamemode = view.findViewById(R.id.world_gamemode);
                 mWorldLastPlayed = view.findViewById(R.id.world_last_played);
                 mWorldPath = view.findViewById(R.id.world_path);
+                mWorldImage = view.findViewById(R.id.icon)
             }
 
             @Override
