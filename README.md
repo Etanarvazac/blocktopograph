@@ -30,30 +30,26 @@ Original Screenshots:
 <img src="arts/scr02.png" alt="screenshot" width="320"/>
 <img src="arts/scr03.png" alt="screenshot" width="320"/>
 
-## ![build](https://github.com/Templarian/MaterialDesign/blob/master/svg/hammer-wrench.svg) Build
+## ![build](https://github.com/Templarian/MaterialDesign/blob/master/svg/hammer-wrench.svg) Build your own version
+**Android Studio:**
+1. Clone project: `File -> New -> Project from Version Control -> Git`
+2. Install the missing SDK components (which Android Studio should give you the Auto-Fix options).
+**Your Android Device:**
+1. Fork this project from your web browser (make sure "Desktop Site" is enabled)
+2. Create a Persional Access Token on GitHub `Tap picture -> Settings -> Developer Settings -> Personal Access Token` (You will need to copy the key you are given. You'll only see it once at the the time of creation.)
+3. Download Acode from Google Play. [Download](https://play.google.com/store/apps/details?id=com.foxdebug.acode)
+4. Tap on 3 doys in top-right and then on GitHub. This is where you need to provide the key copied from step 2.
+5. Upon completion, anytime you tap on that menu option, your GitHub profile should be displayed. You now only need to navigate to your fork (repo) of this project. Saving any opened file in Acode will automatically commit the change in GitHub.
 
-Clone project in Android Studio: `File -> New -> Project from Version Control -> Git`  
-Install missing SDK components. Android Studio would give you the auto-fix options.  
+## Release-Workflow
+The original Google Play version was managed by [@MithrilMania](https://github.com/MithrilMania) which means the release-signing keys are NOT available. You would need to build it as a debug version or sign it with your own keys. There is no guarentee that version will be updated. However, there is a chance that any significant and well-written feature additions or fixes will make it into that build.
 
-### Release-Workflow
+**Questions?** Proto said they do not wish to be bothered about this project anymore. So if you have any questions or genetal feedback, please use the issue tracker.
 
-The official Google-Play version is managed by @mithrilmania. The Release-signing keys are not available.
-You can build it as debug build or sign it with your own keys.
-
-This Google-Play version will be updated after any significant and well-written feature additions and fixes.
-
-Questions? *Proto* said he does not want to be bothered about this app anymore.
-
-Issues and requests are welcome too, but please use the issue-tracker for this to keep things organized.
-
-
-### Wiki
-
+## Wiki
 Reasonable wiki-suggestions are welcome; comments should be sufficient for most parts of this project.
 
-
 ## LICENSE
-
 License: **AGPL v.3**
 
 Direct consequences: all public distributed changes in the source-code
