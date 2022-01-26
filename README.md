@@ -1,13 +1,14 @@
 # Blocktopograph
 
-![author](https://github.com/Templarian/MaterialDesign/blob/master/svg/account.svg)
-
-By *Proto Lambda*\(Link removed, as he asked to\), [@MithrilMania](https://github.com/MithrilMania),
-[@flagmaggot](https://github.com/flagmaggot) and many other community contributors, including translation.  
-This fork is the only one supporting MCPE 1.13+ for now.
-
-## ![translate](https://github.com/Templarian/MaterialDesign/blob/master/svg/web.svg) Help improve translation
-[Click here](https://github.com/oO0oO0oO0o0o00/blocktopograph/blob/master/translation.md).
+## ![author](https://github.com/Templarian/MaterialDesign/blob/master/svg/account.svg) Authors & Contributors
+**Latest Releases:**
+- Etanarvazac (Lead)
+**Past Versions:**
+- Proto Lambda (User requested to not be linked.): Original
+- [@MithrilMania](https://github.com/MithrilMania),
+- [@flagmaggot](https://github.com/flagmaggot)
+- [@oO0oO0oO0o0o00](https://github.com/oO0oO0oO0o0o00)
+This fork may be the only one to soon support MC 1.18 and Android 12.
 
 ## Updates coming (hopefully)
 As title, with luck I would be able to grt this working with Android 12+ and MCPE 1.18+.
