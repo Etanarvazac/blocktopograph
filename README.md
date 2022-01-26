@@ -34,11 +34,12 @@ Original Screenshots:
 **Android Studio:**
 1. Clone project: `File -> New -> Project from Version Control -> Git`
 2. Install the missing SDK components (which Android Studio should give you the Auto-Fix options).
+
 **Your Android Device:**
 1. Fork this project from your web browser (make sure "Desktop Site" is enabled)
 2. Create a Persional Access Token on GitHub `Tap picture -> Settings -> Developer Settings -> Personal Access Token` (You will need to copy the key you are given. You'll only see it once at the the time of creation.)
 3. Download Acode from Google Play. [Download](https://play.google.com/store/apps/details?id=com.foxdebug.acode)
-4. Tap on 3 doys in top-right and then on GitHub. This is where you need to provide the key copied from step 2.
+4. Tap on 3 dots in top-right and then on GitHub. This is where you need to provide the key copied from step 2.
 5. Upon completion, anytime you tap on that menu option, your GitHub profile should be displayed. You now only need to navigate to your fork (repo) of this project. Saving any opened file in Acode will automatically commit the change in GitHub.
 
 ## Release-Workflow
@@ -49,19 +50,20 @@ The original Google Play version was managed by [@MithrilMania](https://github.c
 ## Wiki
 Reasonable wiki-suggestions are welcome; comments should be sufficient for most parts of this project.
 
-## LICENSE
-License: **AGPL v.3**
+## License Information
+**License:** AGPL v.3
 
-Direct consequences: all public distributed changes in the source-code
- are required to be disclosed, including their source-code.
+**Direct consequences:** All public distributed changes in the source-code are required to be disclosed, including their source-code.
 
 *Full license can be found in the [**LICENSE**](LICENSE) file in the root folder of this repository.*
 
-NOTE: Please retain the attribution to *Proto Lambda*, the original author
- and maintainer of the official app, and later significant contributors (See [CONTRIBUTORS.md](CONTRIBUTORS.md))
- out of respect for their work towards this software.
+**Attributions Required:**
+You must have a attribution to every significant contributor to this project. This includes but is not limited to:
+*Proto Lambda:* The original author.
+*MithrilMania:* The maintainer of the original (and official) app.
+*Others:* Anyone else who made a contribution. A full list can be found in [CONTRIBUTORS.md](CONTRIBUTORS.md) out of respect for their work on this software
 
-LICENSE-head:
+*License-head:*
 
     Blocktopograph -- Blocktopograph is a fan-made app for MCPE, it includes a top-down world viewer and a NBT editor.
     Copyright (C) 2016 Proto Lambda
@@ -79,8 +81,6 @@ LICENSE-head:
     You should have received a copy of the GNU Affero General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-
-
-## Contributing
-
-Always welcome! Fork the project, improve and publish!
+## Final Notes
+**Contributions:**
+- All Contributions are always welcome. Any large contribution will be noted in [CONTRIBUTORS.md](CONTRIBUTORS.md).
