@@ -11,17 +11,13 @@
 - [@oO0oO0oO0o0o00](https://github.com/oO0oO0oO0o0o00): Up to version 1.9.5
 
 **Other Contributors / Variations:**
+
 (Will be added upon their releases of a working, stable build.)
 
 This fork may be the only one to soon support MC 1.18 and Android 12.
 
 ## ![update](https://github.com/Templarian/MaterialDesign/blob/master/svg/update.svg) Updates
 This project is quite old and hopefully can be updated to the current versions of Android and MCPE.
-
-**To Do:**
-1. Gain access to the new world save location. (/Android/Data/com.mojang.minecraftpe/files/games/com.mojang)
-2. Update Map to read 1.18+ worlds.
-3. Update NBT editor to account for 1.18 values.
 
 ## Planned Feature & Bucket List
 **1-Stop-Shop:** Basically making this a powerful tool for players and content creaters alike. To do this, many additions will be made:
@@ -37,7 +33,7 @@ This project is quite old and hopefully can be updated to the current versions o
 
 **Bucket List:**
 First thing's first, cleanup and fixing what's broken.
-1. Got to have the ability to access the new file location. Whether that's direct modifications, or moving worlds to a temporary folder and zipping it in a .mcworld file for importing. One of the two must happen.
+1. Got to have the ability to access the new file location (../Android/Data/com.mojang.minecraftpe/files/games/com.mojang) Whether that's direct modifications, or moving worlds to a temporary folder and zipping it in a .mcworld file for importing. One of the two must happen.
 2. Map needs an overhaul. Coloration, enity appearance, etc. It's all got to get updated.
 3. NBT Editor also needs an overhaul. Tree view has it's benifits, but this is currently a bit sloppy. So it needs cleaned up.
 4. Enity views (including players). An effort will be made to decode player names for multiplayer worlds. If not, a nicknaming ability will be added.
